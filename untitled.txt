@@ -1,0 +1,6 @@
+# Links
+
+Solution for heart_disease - https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-scikit-learn.ipynb
+
+Scikit Learn Map - https://scikit-learn.org/1.3/tutorial/machine_learning_map/
+train and test split - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
