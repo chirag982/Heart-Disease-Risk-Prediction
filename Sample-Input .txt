@@ -1,0 +1,16 @@
+manual_input = {
+    'age': 43,
+    'sex': 1,
+    'cp': 0,
+    'trestbps': 150,
+    'chol': 247,
+    'fbs': 0,
+    'restecg': 1,
+    'thalach': 171,
+    'exang': 0,
+    'oldpeak': 1.5,
+    'slope': 2,
+    'ca': 0,
+    'thal': 2
+}
+Result = 1 (Risk For heart disease prediction)
